@@ -19,7 +19,7 @@ Setiap minggu dilengkapi dengan materi inti, tugas praktik, dan mini projek. Set
 ## 📝 Cara Menggunakan
 
 1. **Fork/Clone** repositori ini ke akun GitHub kamu.
-2. Ikuti roadmap mingguan yang ada di file [`ROADMAP.md`](./ROADMAP.md).
+2. Ikuti roadmap mingguan yang ada di file [`Roadmap.md`](./Roadmap.md).
 3. Buat folder/minggu/proyek sesuai struktur di bawah.
 4. Kerjakan tugas dan mini proyek pada setiap minggu, simpan kode dan catatan belajar di folder terkait.
 5. Upload hasil kerja dan update portofolio-mu secara berkala.
